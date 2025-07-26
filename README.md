@@ -19,7 +19,7 @@ Hi! I'm Dharsana, and this is my public log for building consistent habits with 
 ---
 
 
-## 📈 Progress Graph (Optional)
+## 📈 Progress Graph 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DharsanaSuresan&theme=default)
 
